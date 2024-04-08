@@ -1,6 +1,6 @@
 // 对外暴露插件对象 自定义插件
 import SvgIcon from "./SvgIcon/index.vue";
-import Categroy from "./Category/index.vue"
+import Categroy from "./category/index.vue";
 import type { App, Component } from "vue";
 // 引入elementPlus全部图标
 import * as ElementPlusIconsVue from "@element-plus/icons-vue";
